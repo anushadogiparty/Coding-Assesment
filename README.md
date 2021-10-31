@@ -1,4 +1,4 @@
-# Validate IP address is valid or not and print whether it's a class A, class B, or class C IP address.
+# Validate user entered IP address is valid or not and print whether it's a class A, class B, or class C IP address.
 
 Created a Python file to run this program.
 IPv4 addresses are canonically represented in dot-decimal notation, which consists of four decimal numbers, each ranging from 0 to 255, separated by dots (".")
